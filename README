@@ -1,0 +1,17 @@
+contrib/
+	contains 3rd party libraries 
+
+lib/
+	contains libraries created by us
+
+materials/
+	contains bitmaps, models, maps and other materials
+
+tools/
+	contains useful scripts and tools that help with building
+
+docs/
+	contains design docs and docs to be release with engine
+
+packages/
+	contains source for building packages and iso's
