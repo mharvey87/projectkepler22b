@@ -2,7 +2,7 @@ contrib/
 	contains 3rd party libraries 
 
 lib/
-	contains libraries created by us
+	contains auxiliary libraries created by us
 
 materials/
 	contains bitmaps, models, maps and other materials
@@ -15,3 +15,6 @@ docs/
 
 packages/
 	contains source for building packages and iso's
+
+src/
+	contains main source files for game engine
