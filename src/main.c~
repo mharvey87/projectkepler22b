@@ -31,11 +31,6 @@ int main(void)
 
 	while (!glfwWindowShouldClose(window))
 	{
-		glfwSwapBuffers(window);
-		glfwPollEvents();
 	}
-	return 0;
-
-	glfwTerminate();
 	return 0;
 }
